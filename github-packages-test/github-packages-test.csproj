@@ -3,6 +3,8 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <RootNamespace>github_packages_test</RootNamespace>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/SRF-Consulting-Group-Inc/github-packages-test</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
