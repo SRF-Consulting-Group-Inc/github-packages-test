@@ -13,5 +13,10 @@ namespace github_packages_test
         {
             Console.WriteLine(nameof(Test2));
         }
+
+        public static void Test3()
+        {
+            Console.WriteLine(nameof(Test3));
+        }
     }
 }
