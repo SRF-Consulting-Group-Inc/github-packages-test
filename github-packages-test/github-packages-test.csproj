@@ -5,6 +5,7 @@
     <RootNamespace>github_packages_test</RootNamespace>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/SRF-Consulting-Group-Inc/github-packages-test</RepositoryUrl>
+    <PackageId>github-packages-test</PackageId>
   </PropertyGroup>
 
 </Project>
